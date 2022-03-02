@@ -4,13 +4,11 @@
 
 Las prácticas realizadas son:
 
-*     Toma de requerimientos
-*     Creación de un buyer persona
-
-*     Definición de un público objetivo
-*     Creación del primer Wireframe UX
-
-*     Creación del primer UI
+1. Toma de requerimientos
+2. Creación de un buyer persona
+3. Definición de un público objetivo
+4. Creación del primer Wireframe UX
+5. Creación del primer UI
 
  Todo a partir del siguiente caso de estudio:
 
