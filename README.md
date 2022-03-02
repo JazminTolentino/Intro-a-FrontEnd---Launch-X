@@ -2,6 +2,7 @@
 ## Prácticas de la primer semana del curso de FrontEnd del programa Launch X.
 
 Las prácticas realizadas son:
+
     *Toma de requerimientos
     *Creación de un buyer persona
     *Definición de un público objetivo
